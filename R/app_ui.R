@@ -15,7 +15,7 @@ app_ui <- function(request) {
         tabPanel(title = "panel1",
                  "module1"),
         tabPanel(title = "Occurance Plot",
-                 "plotAAOccur")
+                 mod_plotAA_ui("plotAA_1"))
       )
     )
   )
