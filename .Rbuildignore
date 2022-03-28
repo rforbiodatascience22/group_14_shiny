@@ -10,3 +10,5 @@ $run_dev.*
 ^superCD\.Rcheck$
 ^superCD.*\.tar\.gz$
 ^superCD.*\.tgz$
+^app\.R$
+^rsconnect$

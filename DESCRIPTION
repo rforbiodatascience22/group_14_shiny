@@ -1,15 +1,16 @@
 Package: superCD
 Title: An Amazing Shiny App
 Version: 0.0.0.9000
-Authors@R:c(
+Authors@R: c(
  .
-   )
+    )
 Description: What the package does (one paragraph).
 License: What license is it under?
 Imports: 
     config (>= 0.3.1),
     golem (>= 0.3.2),
     magrittr,
+    pkgload,
     shiny (>= 1.7.1)
 Encoding: UTF-8
 LazyData: true
