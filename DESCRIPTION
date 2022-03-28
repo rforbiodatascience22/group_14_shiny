@@ -1,32 +1,15 @@
 Package: superCD
 Title: An Amazing Shiny App
 Version: 0.0.0.9000
-Authors@R:
-  c(person(given = "Cathrine",
-           family = "Lind",
-           role = c("aut", "cre"), # There must be a "cre", but there can only be one
-           email = "s184338@student.dtu.dk"), 
-    person(given = "Mads",
-           family = "Hartmann",
-           role = "aut",
-           email = "your@email.com"))
-    person(given = "Swati",
-           family = "lastname",
-           role = "aut",
-           email = "your@email.com"))
-    person(given = "Alisia",
-           family = "lastname",
-           role = "aut",
-           email = "your@email.com"))
-    person(given = "Julia",
-           family = "lastname",
-           role = "aut",
-           email = "your@email.com"))
+Authors@R:c(
+ .
+   )
 Description: What the package does (one paragraph).
 License: What license is it under?
 Imports: 
     config (>= 0.3.1),
     golem (>= 0.3.2),
+    magrittr,
     shiny (>= 1.7.1)
 Encoding: UTF-8
 LazyData: true
